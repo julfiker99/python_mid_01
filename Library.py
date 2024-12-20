@@ -37,7 +37,7 @@ class Book:
 
 def main_menu():
     while True:
-        print("\nMenu:")
+        print("\nWelcome To The Library:")
         print("1. View All Books")
         print("2. Borrow Book")
         print("3. Return Book")
